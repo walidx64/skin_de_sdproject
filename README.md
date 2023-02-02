@@ -2,8 +2,7 @@
 # Prototype Test APP - SD Project
 
 ![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/Cover%20(1).png)
-![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/1.png =250x250)
-<img src="https://github.com/walidx64/skin_de_sdproject/blob/main/SS/1.png" height="1200" width="2600" >
+![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/1.png)
 ![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/2.png)
 ![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/3.png)
 ![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/4.png)
