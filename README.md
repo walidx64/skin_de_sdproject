@@ -1,6 +1,11 @@
-# sd_testproject2
+# Skin diseases detection using TFlite Image classification ML
+# Prototype Test APP - SD Project
 
-test App for Sd project
+![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/Cover%20(1).png)
+![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/1.png)
+![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/2.png)
+![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/3.png)
+![](https://github.com/walidx64/skin_de_sdproject/blob/main/SS/4.png)
 
 ## Getting Started
 
